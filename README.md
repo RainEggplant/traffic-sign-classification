@@ -2,6 +2,8 @@
 
 Classify traffic signs using traditional machine learning method and deep learning methods. [course project of "Media and Recognition" of EE, Tsinghua University]
 
+**See the [report](report/report.pdf)**.
+
 ## Introduction
 
 This cource project includes 4 tasks. Task 1 requires us to classify traffic signs using traditional machine learning method, task 2 requires us to classify using deep learning method, task 3 requires us to perform single example classification and task 4 requires us to detect traffic signs and then classify.
